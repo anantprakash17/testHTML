@@ -1,18 +1,26 @@
+/* This part changes the look of the entire website */
 body {
     background-color: rgb(183, 219, 231);
 }
+
+/* This modifies properties of Heading 1's */
 h1 {
     text-align: center;
 }
+
+/*This changes the properties of all the <p>'s that are present */
 p {
     text-align: center;
     font-size: 30px;
     color: purple;
 } 
 
+/* This modifies only the 'section' that we created */
 section {
     background-color: orange;
 }
+
+/* Changes the color of the 'section' when the mouse goes over it */
 section:hover {
     background-color: white;
 }
