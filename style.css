@@ -13,3 +13,6 @@ p {
 section {
     background-color: orange;
 }
+section:hover {
+    background-color: white;
+}
